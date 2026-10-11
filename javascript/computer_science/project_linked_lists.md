@@ -85,6 +85,8 @@ Build the following functions in your linked list class / factory:
 
 #### Test it out
 
+Using jest add tests to test your code!
+
 Let's test out the Linked List you made!
 
 1. Create a `main.js` file and make sure it imports your `LinkedList` class or factory. This is where we'll test the list.

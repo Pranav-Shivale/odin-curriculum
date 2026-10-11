@@ -65,6 +65,8 @@ Remember that our hash map does not preserve insertion order when you are retrie
 
 #### Test your hash map
 
+Using jest add tests to test your code!
+
 1. Create a new JavaScript file.
 
 1. Create a new instance of your hash map and set the load factor to `0.75`.
